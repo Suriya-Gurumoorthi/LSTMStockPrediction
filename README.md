@@ -16,4 +16,5 @@ Welcome to the **LSTM Stock Price Prediction** project! This repository contains
 - **Flexible Configuration**: Fine-tune model parameters and hyperparameters to see how they affect prediction performance.
 
 ## Preview
+<img width="1440" alt="image" src="https://github.com/Suriya-Gurumoorthi/LSTMStockPrediction/assets/132763444/4e148d95-18e1-43a5-949e-ed1e3971365c">
 
