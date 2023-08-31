@@ -1,6 +1,5 @@
 # LSTM Stock Price Prediction using Neural Networks
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social&label=Star)](https://github.com/your-username/Suriya-Gurumoorthi)
 
 
 Welcome to the **LSTM Stock Price Prediction** project! This repository contains a neural network model implemented using Long Short-Term Memory (LSTM) architecture to predict stock prices. Stay ahead of the game by forecasting market trends with cutting-edge machine learning techniques.
